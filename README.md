@@ -1,5 +1,5 @@
 
-# Hi there, Wlcome to my Github! I'm Oleg - aka Cortuzz 👋 
+# Hi there, Welcome to my Github! I'm Oleg - aka Cortuzz 👋 
 
 I put pretty much everything I do here, usually these are my personal projects or my academic work.
 
