@@ -4,8 +4,12 @@
 I put pretty much everything I do here, usually these are my personal projects or my academic work.
 
 ### GitHub statistic:
-| <img align="left" alt="Cortuzz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cortuzz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/> | <img alt="Cortuzz's languages preferences" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cortuzz&layout=compact&hide=jupyter notebook&count_private=true&langs_count=8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> |
+| <img align="left" alt="General statistic" src="https://github-readme-stats.vercel.app/api?username=Cortuzz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/> | <img alt="Cortuzz's languages preferences" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cortuzz&layout=compact&hide=jupyter notebook&count_private=true&langs_count=8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> |
 | ------------- | ------------- |
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Cortuzz&custom_title=Activity%20graph&area=true&area_color=FFE400&color=ff652f&bg_color=09131B&line=FFE400&point=ff652f)](https://github.com/Cortuzz/github-readme-activity-graph)
+
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cortuzz&show_border=true&stroke=FFE400&background=09131B&ring=ff652f&fire=ff652f&currStreakLabel=FFE400&currStreakNum=FFE400&sideNums=ff652f&sideLabels=FFE400" alt="Cortuzz" /></div>
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
